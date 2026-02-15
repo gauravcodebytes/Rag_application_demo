@@ -21,3 +21,6 @@ Vector DB: FAISS
 Frameworks: LangChain, PyPDF
 Language: Python
 
+webapp_link:
+https://rag-demo-app2.streamlit.app/
+
