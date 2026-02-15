@@ -11,8 +11,8 @@ The system retrieves relevant document context using FAISS vector search and gen
 🕘 Persistent chat history (session-based)
 ⚡ Fast inference with Gemini Flash Lite
 🔐 Secure API key handling via .env
-🏗️ System Architecture
-image
+
+
 🧰 Tech Stack
 Frontend: Streamlit
 LLM: Google Gemini (gemini-2.5-flash-lite)
@@ -20,5 +20,4 @@ Embeddings: HuggingFace all-MiniLM-L6-v2
 Vector DB: FAISS
 Frameworks: LangChain, PyPDF
 Language: Python
-📂 Project Structure
-image
+
